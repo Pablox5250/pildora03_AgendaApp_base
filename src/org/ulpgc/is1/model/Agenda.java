@@ -20,4 +20,7 @@ public class Agenda {
     public String getGroupList(){
 
     }
+
+    public String addMember2Group(){
+    }
 }
